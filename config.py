@@ -1,0 +1,6 @@
+host = "localhost"
+user = "postgres"
+password = "пароль из postgres"
+db_name1 = "base_1"
+db_name2 = "base_2"
+db_name3 = "base_3"
